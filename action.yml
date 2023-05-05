@@ -1,4 +1,4 @@
-name: "Workspace cleaner"
+name: "Workspace Cleaner"
 description: | 
   "Es un actions para limpiar la carpeta raiz del repositorio y el directorio _Actions."
 branding:
